@@ -26,6 +26,6 @@
  * ```
  */
 
-import "./style.css";
+import "./styles/globals.css";
 
 import "./App";
